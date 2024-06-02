@@ -1,1 +1,1 @@
-../../.config/nvim/init.lua
+require("0xtuhex")

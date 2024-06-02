@@ -1,1 +1,2 @@
-../../../../.config/nvim/lua/0xtuhex/init.lua
+require("0xtuhex.remap")
+require("0xtuhex.set")
