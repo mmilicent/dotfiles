@@ -16,7 +16,7 @@ history = 12000
 
 [font]
 builtin_box_drawing = false
-size                = 7.5
+size                = 7
 
 [font.normal]
 family = "ProggyVector"
